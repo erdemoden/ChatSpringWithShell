@@ -45,7 +45,7 @@ public class ScreenMover {
     }
     public void playSound (){
             try {
-                FileInputStream fis = new FileInputStream("src/main/java/com/woh/chat_shell/Sounds/nudge.mp3");
+                FileInputStream fis = new FileInputStream("chat-shell/src/main/java/com/woh/chat_shell/Sounds/nudge.mp3");
                 Player playMP3 = new Player(fis);
                 playMP3.play();
 
