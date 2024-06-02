@@ -1,4 +1,5 @@
 # ChatSpringWithShell
 
-Chatting with spring shell also it has nudge(dürtme) feature which was a feature in msn back then 
+It's possible to chat with Spring Shell, and it also includes the nudge(dürtme) feature like in MSN
 
+you can download the jar from chat-shell and use
